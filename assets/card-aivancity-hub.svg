@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="210" viewBox="0 0 900 210" role="img" aria-label="Aivancity Hub: // hackathon 2025">
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#79c0ff"/><stop offset="1" stop-color="#f2cc60"/></linearGradient>
+<radialGradient id="glow" cx=".9" cy=".1" r=".7"><stop offset="0" stop-color="#f2cc60" stop-opacity=".28"/><stop offset="1" stop-color="#f2cc60" stop-opacity="0"/></radialGradient>
+<clipPath id="r"><rect width="900" height="210" rx="16"/></clipPath>
+</defs>
+<g clip-path="url(#r)" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace">
+<rect width="900" height="210" fill="#0d1117"/>
+<rect width="900" height="210" fill="url(#glow)"/>
+<rect width="6" height="210" fill="url(#g)"/>
+<text x="860" y="150" text-anchor="end" font-size="130" font-weight="700" fill="url(#g)" fill-opacity=".13">#</text>
+<circle cx="46" cy="44" r="5" fill="#79c0ff"><animate attributeName="r" values="5;8;5" dur="2.4s" repeatCount="indefinite"/><animate attributeName="fill-opacity" values="1;.35;1" dur="2.4s" repeatCount="indefinite"/></circle>
+<text x="62" y="49" fill="#8b949e" font-size="13" letter-spacing="1.5">SHIPPED · ./aivancity-hub</text>
+<text x="40" y="82" font-size="28" font-weight="700" fill="url(#g)">Aivancity Hub</text>
+<text x="281.5" y="81" fill="#8b949e" font-size="15">// hackathon 2025</text>
+<text x="40" y="108" fill="#e6edf3" fill-opacity=".86" font-size="15">The student portal aivancity never had: schedule, AI assistants,</text><text x="40" y="130" fill="#e6edf3" fill-opacity=".86" font-size="15">room booking, internships and AI Points on a single page.</text>
+<rect x="40.0" y="160" width="131.2" height="26" rx="13" fill="#79c0ff" fill-opacity=".12" stroke="#79c0ff" stroke-opacity=".5"/><text x="105.6" y="177.5" text-anchor="middle" fill="#79c0ff" font-size="13">Node · Express</text><rect x="181.2" y="160" width="100.0" height="26" rx="13" fill="#79c0ff" fill-opacity=".12" stroke="#79c0ff" stroke-opacity=".5"/><text x="231.2" y="177.5" text-anchor="middle" fill="#79c0ff" font-size="13">Vanilla JS</text><rect x="291.2" y="160" width="100.0" height="26" rx="13" fill="#79c0ff" fill-opacity=".12" stroke="#79c0ff" stroke-opacity=".5"/><text x="341.2" y="177.5" text-anchor="middle" fill="#79c0ff" font-size="13">Mistral AI</text><rect x="401.2" y="160" width="139.0" height="26" rx="13" fill="#79c0ff" fill-opacity=".12" stroke="#79c0ff" stroke-opacity=".5"/><text x="470.7" y="177.5" text-anchor="middle" fill="#79c0ff" font-size="13">Microsoft Graph</text><rect x="550.2" y="160" width="45.4" height="26" rx="13" fill="#79c0ff" fill-opacity=".12" stroke="#79c0ff" stroke-opacity=".5"/><text x="572.9" y="177.5" text-anchor="middle" fill="#79c0ff" font-size="13">PWA</text>
+</g>
+<rect x=".75" y=".75" width="898.5" height="208.5" rx="16" fill="none" stroke="#79c0ff" stroke-opacity=".35" stroke-width="1.5"/>
+</svg>
